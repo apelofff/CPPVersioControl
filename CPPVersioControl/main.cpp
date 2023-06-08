@@ -2,6 +2,6 @@
 
 int main() 
 {
-	//print some text
+	//print some text!
 	std::cout << "Welcome! \n\n";
 }
